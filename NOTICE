@@ -1,0 +1,10 @@
+herdr-panel-wrap
+
+mods/files-wrap and mods/changes-wrap are modified copies of the `files` and
+`changes` mods shipped with Herdr app 0.1.11
+(https://github.com/herdrdev/herdr-app, defaults/mods/), licensed under the
+Apache License, Version 2.0.
+
+Changes: long lines wrap instead of scrolling sideways, as proposed by
+samitooooo in https://github.com/herdrdev/herdr-app/pull/248. Each changed
+file says so in its first lines.
